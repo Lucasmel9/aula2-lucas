@@ -5,3 +5,9 @@ sobrenome:sousa
 cpf:123456789-0
 
 filme favorito: vingadores
+
+animal favorito: gato
+
+tem dinheiro: não 
+
+Jogar FF: sim
